@@ -16,3 +16,9 @@ PowerShellを開き、下記のコマンドを実行する。
 ```PowerShell
 scoop bucket add extras
 ```
+
+### パッケージのインストール
+PowerShellを開き、下記のコマンドを実行する。
+```PowerShell
+ scoop install git anaconda3 php php-xdebug go rustup dart vscode
+ ```
