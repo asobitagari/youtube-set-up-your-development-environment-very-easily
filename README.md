@@ -11,7 +11,7 @@ Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
 
-### ScoopのBacketの追加
+### ScoopのBucketの追加
 PowerShellを開き、下記のコマンドを実行する。
 ```PowerShell
 scoop bucket add extras
